@@ -1,6 +1,5 @@
 export const PORT = 5555 ;
 
 export const mongoDBURL = 
-"mongodb+srv://root:root@cluster0.lj2xm4m.mongodb.net/Cluster0?retryWrites=true&w=majority&appName=Cluster0"
-
+"mongodb+srv://root:root@books-store-mern.l9mpuqb.mongodb.net/books-collection?retryWrites=true&w=majority&appName=Books-Store-MERN"
 // Create free database for this thing and it will be deleted after this is done .//

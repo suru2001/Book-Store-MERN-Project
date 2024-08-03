@@ -15,4 +15,4 @@ require:true
     timestamps: true,
 }
 )
-export const Book = mongoose.model("cat",bookSchema);
+export const Book = mongoose.model("books-store-collection",bookSchema);
